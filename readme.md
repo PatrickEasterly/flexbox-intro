@@ -10,7 +10,8 @@
 
 # what is a flex container (a.k.a. flex parent)?
 
-- 
+- An element with `display: flex`
+- It controls how its children line up
 
 # what are flex items (flex children)?
 
